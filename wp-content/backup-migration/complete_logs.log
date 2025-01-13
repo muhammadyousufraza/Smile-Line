@@ -1,0 +1,398 @@
+[2023-02-28 15:53:56] [LOG] Plugin has been activated
+[2023-02-28 15:54:13] [ERROR] Shuted down
+[2023-02-28 15:54:13] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:13] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:13] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:13] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:13] [ERROR] Shuted down
+[2023-02-28 15:54:13] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:13] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:13] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:13] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:14] [ERROR] Shuted down
+[2023-02-28 15:54:14] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:14] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:14] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:14] [ERROR] Shuted down
+[2023-02-28 15:54:14] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:14] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:14] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:14] [ERROR] Shuted down
+[2023-02-28 15:54:14] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:14] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:14] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:14] [ERROR] Shuted down
+[2023-02-28 15:54:14] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:14] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:14] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:14] [ERROR] Shuted down
+[2023-02-28 15:54:14] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:14] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:14] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:14] [ERROR] Shuted down
+[2023-02-28 15:54:14] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:14] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:14] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:16] [ERROR] Shuted down
+[2023-02-28 15:54:16] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:16] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:16] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:16] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:20] [ERROR] Shuted down
+[2023-02-28 15:54:20] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:20] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:20] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:20] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:26] [ERROR] Shuted down
+[2023-02-28 15:54:26] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:26] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:26] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:31] [ERROR] Shuted down
+[2023-02-28 15:54:31] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:31] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:31] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:31] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:37] [ERROR] Shuted down
+[2023-02-28 15:54:37] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:37] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:37] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:37] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:44] [ERROR] Shuted down
+[2023-02-28 15:54:44] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:44] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:44] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:44] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:50] [ERROR] Shuted down
+[2023-02-28 15:54:50] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:50] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:50] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:50] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:54:56] [ERROR] Shuted down
+[2023-02-28 15:54:56] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:54:56] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:54:56] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:54:56] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:02] [ERROR] Shuted down
+[2023-02-28 15:55:02] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:02] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:02] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:08] [ERROR] Shuted down
+[2023-02-28 15:55:08] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:08] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:08] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:08] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:13] [ERROR] Shuted down
+[2023-02-28 15:55:13] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:13] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:13] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:13] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:19] [ERROR] Shuted down
+[2023-02-28 15:55:19] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:19] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:19] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:19] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:24] [ERROR] Shuted down
+[2023-02-28 15:55:24] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:24] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:24] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:24] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:25] [ERROR] Shuted down
+[2023-02-28 15:55:25] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:25] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:25] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:30] [ERROR] Shuted down
+[2023-02-28 15:55:30] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:30] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:30] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:30] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:36] [ERROR] Shuted down
+[2023-02-28 15:55:36] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:36] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:36] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:36] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:42] [ERROR] Shuted down
+[2023-02-28 15:55:42] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:42] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:42] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:42] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:49] [ERROR] Shuted down
+[2023-02-28 15:55:49] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:49] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:49] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:55] [ERROR] Shuted down
+[2023-02-28 15:55:55] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:55] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:55] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:55] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:55:59] [ERROR] Shuted down
+[2023-02-28 15:55:59] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:55:59] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:55:59] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:55:59] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:56:00] [ERROR] Shuted down
+[2023-02-28 15:56:00] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:56:00] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:56:00] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:56:00] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:56:06] [ERROR] Shuted down
+[2023-02-28 15:56:06] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:56:06] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:56:06] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:56:06] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:56:12] [ERROR] Shuted down
+[2023-02-28 15:56:12] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:56:12] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:56:12] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:56:12] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:56:18] [ERROR] Shuted down
+[2023-02-28 15:56:18] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:56:18] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:56:18] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:56:18] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:56:23] [ERROR] Shuted down
+[2023-02-28 15:56:23] [ERROR] Array
+(
+    [type] => 2
+    [message] => file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+    [file] => /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php
+    [line] => 327
+)
+
+[2023-02-28 15:56:23] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2023-02-28 15:56:23] [ERROR] Error message: file_get_contents(http://www.homndo.com/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known
+[2023-02-28 15:56:23] [ERROR] Error file/line: /home3/anasdgns/public_html/sites/affinityambulance/wp-content/plugins/mplugin.php|327
+[2023-02-28 15:56:39] [LOG] Plugin has been deactivated

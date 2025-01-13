@@ -1,0 +1,4 @@
+[2024-12-05 14:41:57 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-12-05 14:41:58 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-12-05 14:41:58 : INFO] - Task with ID 11 and type (smush) failed with error code exceeded_max_filesize - /homepages/1/d993213824/htdocs/clickandbuilds/SmileLineVancouver/wp-content/uploads/2024/10/Group-143726276.png - cannot be optimized, file size is above service provider limit 
+[2024-12-05 16:43:25 : INFO] - Pruning the smush log file 
